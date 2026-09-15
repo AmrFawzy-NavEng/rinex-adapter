@@ -1,0 +1,5 @@
+# RINEX-ADAPTER dependencies
+# Core (rinex_adapter.py / rinex_handler.py) is pure standard library.
+# Only the GUI needs these:
+ttkbootstrap>=1.10
+pillow>=9.0
